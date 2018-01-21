@@ -144,7 +144,6 @@ class derp
 	class AI {
         file = "functions\AI";
         class mainAOSpawnHandler {};
-        class AISkill {};
         class AIOccupyBuilding {};
 		class arrayShuffle {};
     };

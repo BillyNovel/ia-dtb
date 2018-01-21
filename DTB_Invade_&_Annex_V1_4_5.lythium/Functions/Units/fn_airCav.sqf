@@ -416,5 +416,4 @@ switch(_faction) do{
 
 _return = airCavReturnGrp;
 {_x addCuratorEditableObjects [(_return), true]; } foreach allCurators;
-[_return] call derp_fnc_AISkill;
 _return

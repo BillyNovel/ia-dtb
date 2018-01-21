@@ -8,7 +8,6 @@
 
 params ["_smPos","_radiusSize","_AAAVehcAmount","_MRAPAmount","_randomVehcsAmount","_infantryGroupsAmount","_AAGroupsAmount","_ATGroupsAmount"];
 private _spawnedUnits = [];
-private _AISkillUnitsArray = [];
 
 //-------------------------------------------------- AA vehicles
 private ["_grp1"];
